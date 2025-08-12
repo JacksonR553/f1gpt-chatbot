@@ -67,7 +67,7 @@ Example: Asking "Who is the highest-paid F1 driver in 2024?" returns Max Verstap
 
 ## Usage
 - **How the interface look like**:
-https://media.discordapp.net/attachments/1096719957020127272/1404832662752854156/image.png?ex=689c9fdf&is=689b4e5f&hm=1cae43cff3b6ec7fd1ac1298709dbd57e13dd8a7cc6d163f860296a2330fca7f&=&format=webp&quality=lossless&width=1763&height=856
+<img width="1860" height="903" alt="image" src="https://github.com/user-attachments/assets/802c93bf-ecb3-41f3-8625-12dd729b7f67" />
 
 - **Interact with the Chatbot**:
   - Visit the app in your browser.
